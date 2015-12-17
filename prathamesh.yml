@@ -1,0 +1,6 @@
+prathamesh:
+  company: BigBinary
+  hometown: Pune, India
+  github: prathamesh-sonpatki
+  twitter: _cha1tanya
+  interestes: <%= %w(ruby rails cricket emacs) %>
